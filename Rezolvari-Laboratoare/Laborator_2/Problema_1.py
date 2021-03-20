@@ -1,5 +1,0 @@
-sir = input("Propozitia este: ")
-sir_gresit = input("Sirul gresit este: ")
-sir_corect = input("Sirul corect este: ")
-sir = sir.replace(sir_gresit,sir_corect)
-print("Propozitia corecta este:" , sir)
